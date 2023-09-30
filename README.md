@@ -17,4 +17,4 @@ This is a simple Tic-Tac-Toe game built using Python and Tkinter. The game suppo
 #### Features
 - Graphical User Interface using Tkinter
 - Supports two players on the same machine
-- Option to reset the game after a win
+- Option to reset the game at any moment and continue playing after a win
