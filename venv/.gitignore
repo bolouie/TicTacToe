@@ -1,0 +1,12 @@
+# PyCharm project settings
+.idea/
+
+# Compiled python modules
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Miscellaneous
+*.swp
+*.iml
